@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Benjamin Vlietstra](mailto:benjamin.vlietstra@owasp.org)
+* [Josh Wenke](mailto:josh.wenke@owasp.org)
