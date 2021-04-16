@@ -1,5 +1,6 @@
 ### Grand Rapids Chapter
 * We are a small but growing group of technology enthusiasts, IT professionals, and those with a passion to learn about and improve security practices.
+* [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 
 ### Get Connected
 * [Meetup](https://www.meetup.com/grand-rapids-owasp-meetup-group/)
