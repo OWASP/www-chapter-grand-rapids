@@ -22,6 +22,8 @@ Feel free to reach out to our leaders with any questions about the Grand Rapids 
 - More information on upcoming events can be found at our [Meetup](https://www.meetup.com/grand-rapids-owasp-meetup-group/)
 
 ### Cyber Security Summit - Virtual Event on July 14th, 2021
+- This event is FREE to OWASP Grand Rapids members. 
+- [View PDF with more information and registration code](https://owasp.org/www-chapter-grand-rapids/OWASPGR21.pdf)
 - [RSVP and view more details here](https://www.meetup.com/grand-rapids-owasp-meetup-group/events/279005291/)
 
 {% include chapter_events.html group=page.meetup-group %}
