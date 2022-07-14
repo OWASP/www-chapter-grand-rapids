@@ -21,10 +21,7 @@ Feel free to reach out to our leaders with any questions about the Grand Rapids 
 - The Grand Rapids chapter hosts a biannual chapter meeting. Everyone is welcome to join us for our events and meetings.
 - More information on upcoming events can be found at our [Meetup](https://www.meetup.com/grand-rapids-owasp-meetup-group/)
 
-### Cyber Security Summit 2022
-- Join OWASP chapters and other IT professionals virtually or in-person for the second annual Detroit Cyber Security Summit.
-- Meetup link: https://www.meetup.com/grand-rapids-owasp-meetup-group/events/287186246/?isFirstPublish=true
-- Details here: https://cybersecuritysummit.com/summit/detroit22/
+
 
 {% include chapter_events.html group=page.meetup-group %}
 
