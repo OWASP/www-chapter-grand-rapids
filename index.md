@@ -21,6 +21,13 @@ Feel free to reach out to our leaders with any questions about the Grand Rapids 
 - The Grand Rapids chapter hosts a biannual chapter meeting. Everyone is welcome to join us for our events and meetings.
 - More information on upcoming events can be found at our [Meetup](https://www.meetup.com/grand-rapids-owasp-meetup-group/)
 
+## Grand Rapids Chapter Meeting - August 2, 2022
+Join us for our biannual chapter meeting on August 2 at 1:00 P.M. Eastern Time
+Location: Microsoft Teams
+Join link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4MmE4NjAtNGIyNS00MTAxLWE0ZDktODBhN2U5NzlhMjM0%40thread.v2/0?context=%7b%22Tid%22%3a%227e589f6a-df4f-406f-973d-3b077a08bda1%22%2c%22Oid%22%3a%220aabea05-cc14-4013-a112-c7a746e59bbf%22%7d
+Meeting ID: 299 979 788 300 
+Passcode: 4H8JPQ 
+
 
 {% include chapter_events.html group=page.meetup-group %}
 
