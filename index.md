@@ -14,8 +14,6 @@ Welcome to the OWASP Grand Rapids chapter homepage. This page is our central sou
 
 ## Leaders
 Feel free to reach out to our leaders with any questions about the Grand Rapids chapter.
-* [Benjamin Vlietstra](mailto:benjamin.vlietstra@owasp.org)
-* [Josh Wenke](mailto:josh.wenke@owasp.org)
 
 ## News & Upcoming Events
 - The Grand Rapids chapter hosts a biannual chapter meeting. Everyone is welcome to join us for our events and meetings.
